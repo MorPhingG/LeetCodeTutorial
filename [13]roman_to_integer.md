@@ -5,6 +5,10 @@ Given a roman numeral, convert it to an integer.
 Input is guaranteed to be within the range from 1 to 3999.
 
 
+## 思路
+
+主要是要弄清楚罗马字符的规律和对应的数字
+
 ## Code
 
 
