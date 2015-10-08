@@ -8,5 +8,5 @@
    * [[13]Roman to Integer]([13]roman_to_integer.md)
    * [[58]Length of last word]([58]length_of_last_word.md)
 * [Bit Manipulation](bit_manipulation.md)
-   * Number of 1 Bits
+   * [Number of 1 Bits](number_of_1_bits.md)
 
