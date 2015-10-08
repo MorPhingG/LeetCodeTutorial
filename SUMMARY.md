@@ -9,4 +9,5 @@
    * [[58]Length of last word]([58]length_of_last_word.md)
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
+   * [190]Reverse Bits
 
