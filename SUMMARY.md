@@ -14,7 +14,7 @@
    * [[58]Length of last word]([58]length_of_last_word.md)
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
-   * [[190]Reverse Bits]([190]reverse_bits.md)
+   * [[190]Reverse Bits](reverse_bits.md)
    * [[231]Power of Two]([231]power_of_two.md)
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
