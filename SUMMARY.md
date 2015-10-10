@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Math](Math.md)
+* [Math](mathmd.md)
    * [[258]Add Digits]([258]add_digits.md)
    * [[263]Ugly Number]([263]ugly_number.md)
    * [[204]Count Primes]([204]count_primes.md)
