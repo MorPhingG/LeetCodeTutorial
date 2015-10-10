@@ -18,7 +18,7 @@
    * [[231]Power of Two](power_of_two.md)
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
-   * [[27]Remove Element]([27]remove_element.md)
+   * [[27]Remove Element](remove_element.md)
    * [[268]Miss Number](miss_number.md)
    * [[66]Plus One]([66]plus_one.md)
 
