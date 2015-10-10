@@ -19,5 +19,5 @@
    * [[283]Move Zeroes](move_zeroes.md)
    * [[27]Remove Element]([27]remove_element.md)
    * [[268]Miss Number]([268]miss_number.md)
-   * [66]Plus One
+   * [[66]Plus One]([66]plus_one.md)
 
