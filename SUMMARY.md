@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Math](mathmd.md)
-   * [[258]Add Digits]([258]add_digits.md)
+   * [[258]Add Digits](add_digits.md)
    * [[263]Ugly Number]([263]ugly_number.md)
    * [[204]Count Primes]([204]count_primes.md)
    * [[7]Reverse Integer]([7]reverse_integer.md)
