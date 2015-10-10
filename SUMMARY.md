@@ -12,5 +12,5 @@
    * [[190]Reverse Bits]([190]reverse_bits.md)
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
-   * [27]Remove Element
+   * [[27]Remove Element]([27]remove_element.md)
 
