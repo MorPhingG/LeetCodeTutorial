@@ -7,6 +7,7 @@
    * [[204]Count Primes]([204]count_primes.md)
    * [[7]Reverse Integer]([7]reverse_integer.md)
    * [[50]Pow(x, n)]([50]powx,_n.md)
+   * [9]Palindrome Number
 * [String](string.md)
    * [[13]Roman to Integer]([13]roman_to_integer.md)
    * [[58]Length of last word]([58]length_of_last_word.md)
