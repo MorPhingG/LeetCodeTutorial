@@ -7,7 +7,7 @@
    * [[204]Count Primes](count_primes.md)
    * [[7]Reverse Integer]([7]reverse_integer.md)
    * [[50]Pow(x, n)](powx,_n.md)
-   * [[9]Palindrome Number]([9]palindrome_number.md)
+   * [[9]Palindrome Number](palindrome_number.md)
    * [[172]Factorial Trailing Zeroes](factorial_trailing_zeroes.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
