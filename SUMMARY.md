@@ -12,6 +12,7 @@
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
    * [[190]Reverse Bits]([190]reverse_bits.md)
+   * [231]Power of Two
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
    * [[27]Remove Element]([27]remove_element.md)
