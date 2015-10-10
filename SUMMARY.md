@@ -10,7 +10,7 @@
    * [[9]Palindrome Number]([9]palindrome_number.md)
    * [[172]Factorial Trailing Zeroes]([172]factorial_trailing_zeroes.md)
 * [String](string.md)
-   * [[13]Roman to Integer]([13]roman_to_integer.md)
+   * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word]([58]length_of_last_word.md)
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
