@@ -12,6 +12,7 @@
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
+   * [344]Reverse String
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
    * [[190]Reverse Bits](reverse_bits.md)
