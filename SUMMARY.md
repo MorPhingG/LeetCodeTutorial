@@ -16,7 +16,6 @@
    * [[191]Number of 1 Bits](number_of_1_bits.md)
    * [[190]Reverse Bits](reverse_bits.md)
    * [[231]Power of Two](power_of_two.md)
-   * Sum of Two Integers
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
    * [[27]Remove Element](remove_element.md)
