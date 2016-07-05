@@ -23,5 +23,5 @@
    * [[27]Remove Element](remove_element.md)
    * [[268]Miss Number](miss_number.md)
    * [[66]Plus One](plus_one.md)
-   * [349]Intersection of Two Arrays
+   * [[349]Intersection of Two Arrays](intersection_of_two_arrays.md)
 
