@@ -11,9 +11,12 @@ The result can be in any order.
 
 ## Code
 
+
 ### Java
 
+
 ### Python
+
 Solution1:
 ```class Solution(object):
     def intersection(self, nums1, nums2):
@@ -23,6 +26,7 @@ Solution1:
                 result.append(num)
         return result
         ```
+        
 Solution2:
 ```class Solution(object):
     def intersection(self, nums1, nums2):
