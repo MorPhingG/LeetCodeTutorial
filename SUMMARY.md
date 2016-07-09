@@ -25,5 +25,5 @@
    * [[66]Plus One](plus_one.md)
    * [[349]Intersection of Two Arrays](intersection_of_two_arrays.md)
 * Linked List
-   * [83]Remove Duplicates from Sorted List
+   * [[83]Remove Duplicates from Sorted List](remove_duplicates_from_sorted_list.md)
 
