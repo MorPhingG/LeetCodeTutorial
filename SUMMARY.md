@@ -29,5 +29,5 @@
    * [[237]Delete Node in a Linked List](delete_node_in_a_linked_list.md)
    * [[19]Remove Nth Node From End of List](remove_nth_node_from_end_of_list.md)
    * [[203]Remove Linked List Elements](remove_linked_list_elements.md)
-   * [141]Linked List Cycle
+   * [[141]Linked List Cycle](linked_list_cycle.md)
 
