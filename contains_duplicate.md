@@ -8,7 +8,8 @@ Given an array of integers, find if the array contains any duplicates. Your func
 
 Solution1:
 
-```class Solution(object):
+```
+class Solution(object):
     def containsDuplicate(self, nums):
         numsDict = {}
         for key in nums:
@@ -21,7 +22,8 @@ Solution1:
         
 Solution2:
 
-```class Solution(object):
+```
+class Solution(object):
     def containsDuplicate(self, nums):
         return not len(set(nums)) == len(nums)
         ```
