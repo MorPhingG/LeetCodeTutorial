@@ -24,6 +24,7 @@
    * [[268]Miss Number](miss_number.md)
    * [[66]Plus One](plus_one.md)
    * [[349]Intersection of Two Arrays](intersection_of_two_arrays.md)
+   * [217]Contains Duplicate
 * [Linked List](linked_list.md)
    * [[83]Remove Duplicates from Sorted List](remove_duplicates_from_sorted_list.md)
    * [[237]Delete Node in a Linked List](delete_node_in_a_linked_list.md)
