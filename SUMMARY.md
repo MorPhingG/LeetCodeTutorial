@@ -33,6 +33,7 @@
    * [[119]Pascal's Triangle II](pascals_triangle_ii.md)
    * [[26]Remove Duplicates from Sorted Array](remove_duplicates_from_sorted_array.md)
    * [[189]Rotate Array]([189]rotate_array.md)
+   * [88]Merge Sorted Array
 * [Linked List](linked_list.md)
    * [[83]Remove Duplicates from Sorted List](remove_duplicates_from_sorted_list.md)
    * [[237]Delete Node in a Linked List](delete_node_in_a_linked_list.md)
