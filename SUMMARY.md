@@ -45,6 +45,6 @@
    * [[160]Intersection of Two Linked Lists](intersection_of_two_linked_lists.md)
    * [[24]Swap Nodes in Pairs](swap_nodes_in_pairs.md)
    * [[234]Palindrome Linked List](palindrome_linked_list.md)
-* Tree
+* [Tree](tree.md)
    * [235]Lowest Common Ancestor of a Binary Search Tree
 
