@@ -46,5 +46,5 @@
    * [[24]Swap Nodes in Pairs](swap_nodes_in_pairs.md)
    * [[234]Palindrome Linked List](palindrome_linked_list.md)
 * [Tree](tree.md)
-   * [235]Lowest Common Ancestor of a Binary Search Tree
+   * [[235]Lowest Common Ancestor of a Binary Search Tree](lowest_common_ancestor_of_a_binary_search_tre.md)
 
