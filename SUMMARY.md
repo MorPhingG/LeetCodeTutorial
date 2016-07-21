@@ -9,7 +9,7 @@
    * [[50]Pow(x, n)](powx,_n.md)
    * [[9]Palindrome Number](palindrome_number.md)
    * [[172]Factorial Trailing Zeroes](factorial_trailing_zeroes.md)
-   * [171]Excel Sheet Column Number
+   * [[171]Excel Sheet Column Number](excel_sheet_column_number.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
