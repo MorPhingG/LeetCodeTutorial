@@ -48,5 +48,5 @@
    * [[234]Palindrome Linked List](palindrome_linked_list.md)
 * [Tree](tree.md)
    * [[235]Lowest Common Ancestor of a Binary Search Tree](lowest_common_ancestor_of_a_binary_search_tre.md)
-   * [257]Binary Tree Paths
+   * [[257]Binary Tree Paths](binary_tree_paths.md)
 
