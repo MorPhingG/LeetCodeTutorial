@@ -22,10 +22,6 @@ return its level order traversal as:
 
 ```class Solution(object):
     def levelOrder(self, root):
-        """
-        :type root: TreeNode
-        :rtype: List[List[int]]
-        """
         current_level, result = [root], []
         while current_level and root:
             result.append([leaf.val for leaf in current_level])
