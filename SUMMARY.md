@@ -21,6 +21,7 @@
    * [[190]Reverse Bits](reverse_bits.md)
    * [[231]Power of Two](power_of_two.md)
    * [[371]Sum of Two Integers](sum_of_two_integers.md)
+   * [342]Power of Four
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
    * [[27]Remove Element](remove_element.md)
