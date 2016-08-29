@@ -11,7 +11,7 @@
    * [[172]Factorial Trailing Zeroes](factorial_trailing_zeroes.md)
    * [[171]Excel Sheet Column Number](excel_sheet_column_number.md)
    * [[202]Happy Number](happy_number.md)
-   * [326]Power of Three
+   * [[326]Power of Three](power_of_three.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
