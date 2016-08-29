@@ -17,6 +17,7 @@
    * [[58]Length of last word](length_of_last_word.md)
    * [[344]Reverse String](reverse_string.md)
    * [[387]First Unique Character in a String](first_unique_character_in_a_string.md)
+   * [67]Add Binary
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
    * [[190]Reverse Bits](reverse_bits.md)
