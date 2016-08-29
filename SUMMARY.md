@@ -24,6 +24,7 @@
    * [[231]Power of Two](power_of_two.md)
    * [[371]Sum of Two Integers](sum_of_two_integers.md)
    * [[342]Power of Four](power_of_four.md)
+   * [389]Find the Difference
 * [Array](array.md)
    * [[283]Move Zeroes](move_zeroes.md)
    * [[27]Remove Element](remove_element.md)
