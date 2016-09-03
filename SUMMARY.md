@@ -41,6 +41,7 @@
    * [[26]Remove Duplicates from Sorted Array](remove_duplicates_from_sorted_array.md)
    * [[189]Rotate Array]([189]rotate_array.md)
    * [[88]Merge Sorted Array](merge_sorted_array.md)
+   * [350]Intersection of Two Arrays II
 * [Linked List](linked_list.md)
    * [[83]Remove Duplicates from Sorted List](remove_duplicates_from_sorted_list.md)
    * [[237]Delete Node in a Linked List](delete_node_in_a_linked_list.md)
