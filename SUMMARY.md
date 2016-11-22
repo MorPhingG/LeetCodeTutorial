@@ -20,6 +20,7 @@
    * [[344]Reverse String](reverse_string.md)
    * [[387]First Unique Character in a String](first_unique_character_in_a_string.md)
    * [[67]Add Binary](add_binary.md)
+   * [459]Repeated Substring Pattern
 * [Bit Manipulation](bit_manipulation.md)
    * [[191]Number of 1 Bits](number_of_1_bits.md)
    * [[190]Reverse Bits](reverse_bits.md)
