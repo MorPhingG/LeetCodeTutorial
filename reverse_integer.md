@@ -5,6 +5,10 @@ Reverse digits of an integer.
 Example1: x = 123, return 321
 Example2: x = -123, return -321
 
+
+## 思路
+除了用除法解出每一位以外，另一种方法就是将整型数据转为字符串，反转后再转成整型。
+
 ## Code
 
 ### Python
