@@ -20,8 +20,6 @@ class Solution(object):
         ```
 Runtime: 75ms
 
-
-
 ### Java
 ```
 public class Solution {
