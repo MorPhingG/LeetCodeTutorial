@@ -19,8 +19,8 @@ Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one
         :type num: int
         :rtype: int
         """
-        return 0 if num == 0 else (num-1)%9+1
-        ```
+        return 0 if num == 0 else (num-1)%9+1```
+        
 Runtime: 35ms
 
 ### Java:
