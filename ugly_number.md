@@ -29,7 +29,7 @@ Note that 1 is typically treated as an ugly number.
                 return False
         return num == 1
         ```
-
+Runtime: 52ms
 
 ### Java
 ```
