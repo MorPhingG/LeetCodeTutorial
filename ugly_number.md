@@ -9,6 +9,26 @@ Note that 1 is typically treated as an ugly number.
 
 ## Code
 
+## Python
+```class Solution(object):
+    def isUgly(self, num):
+        """
+        :type num: int
+        :rtype: bool
+        """
+        while num >= 2:
+            if num % 5 == 0:
+                num = num/5
+            elif num % 3 == 0:
+                num = num/3
+            elif num % 2 == 0:
+                num = num/2
+            else:
+                return False
+        return num == 1
+        ```
+
+
 ### Java
 ```
 public class Solution {
