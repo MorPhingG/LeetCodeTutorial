@@ -7,6 +7,21 @@ Example2: x = -123, return -321
 
 ## Code
 
+### Python
+```
+class Solution(object):
+    def reverse(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        result = int(str(x)[::-1]) if x >= 0 else int('-'+str(x)[1:][::-1])
+        return result if result <= 2147483647 and result >= -2147483648 else 0
+        ```
+Runtime: 75ms
+
+
+
 ### Java
 ```
 public class Solution {
