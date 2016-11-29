@@ -12,7 +12,8 @@ Note that 1 is typically treated as an ugly number.
 ## Code
 
 ### Python
-```class Solution(object):
+```
+class Solution(object):
     def isUgly(self, num):
         """
         :type num: int
