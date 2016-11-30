@@ -7,10 +7,14 @@ Each rectangle is defined by its bottom left corner and top right corner as show
 Rectangle Area
 Assume that the total area is never beyond the maximum possible value of int.
 
+## 思路
+两矩形重叠的区域的边长可用两右侧最小减左侧最大获得，另外小于0时应取0
+
 ## Code
 
 ### Python
-```class Solution(object):
+```
+class Solution(object):
     def computeArea(self, A, B, C, D, E, F, G, H):
         """
         :type A: int
