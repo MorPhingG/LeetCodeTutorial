@@ -11,11 +11,15 @@ Example: 19 is a happy number
 62 + 82 = 100
 12 + 02 + 02 = 1
 
+## 思路
+将每次计算得到的值存入哈希表，如果重复即不是happy number.
+
 ## Code
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def isHappy(self, n):
         def sum(number):
             sum = 0
