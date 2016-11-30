@@ -19,7 +19,7 @@
    * [[400]Nth Digit](nth_digit.md)
    * [[168]Excel Sheet Column Title](excel_sheet_column_title.md)
    * [[396]Rotate Function](rotate_function.md)
-   * [8]String to Integer (atoi)
+   * [[8]String to Integer (atoi)](string_to_integer_atoi.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
