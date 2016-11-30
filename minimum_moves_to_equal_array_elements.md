@@ -15,10 +15,14 @@ Only three moves are needed (remember each move increments two elements):
 
 [1,2,3]  =>  [2,3,3]  =>  [3,4,3]  =>  [4,4,4]
 
+## 思路
+设想最开始的列表里所有值都相同且为最小值，每有一个值加1，我们的输出就需要加1，故只要求每个值相比最小值增加了多少即可。
+
 ## Code
 
 ### Python
-```class Solution(object):
+```
+class Solution(object):
     def minMoves(self, nums):
         """
         :type nums: List[int]
