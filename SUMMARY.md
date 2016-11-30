@@ -16,7 +16,7 @@
    * [[223]Rectangle Area](rectangle_area.md)
    * [[415]Add Strings](add_strings.md)
    * [[441]Arranging Coins](arranging_coins.md)
-   * [400]Nth Digit
+   * [[400]Nth Digit](nth_digit.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
