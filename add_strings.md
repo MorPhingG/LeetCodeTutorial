@@ -10,6 +10,7 @@ Both num1 and num2 does not contain any leading zero.
 You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
 ## 思路
+将每一位分别转换为整型然后相加。
 
 ## Code
 
