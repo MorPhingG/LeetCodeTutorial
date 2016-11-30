@@ -14,12 +14,34 @@ For example:
     AA -> 27
     AB -> 28 
    
+## 思路
+把问题当作26进制转10进制来做。
    
 ## Code
 
+### Python
+```
+class Solution(object):
+    def titleToNumber(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        num = 0
+        i = 0
+        length = len(s)
+        while i < length:
+            num += 26**(len(s)-i-1)*(ord(s[i])-64)
+            i += 1
+        return num
+        ```
+Runtime: 36ms
+
+
 ### Go
 
-```func titleToNumber(s string) int {
+```
+func titleToNumber(s string) int {
 	result := 1
 	length := len(s)
 	result = result + int(s[0]-'A')
