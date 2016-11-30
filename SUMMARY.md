@@ -14,6 +14,7 @@
    * [[326]Power of Three](power_of_three.md)
    * [[453]Minimum Moves to Equal Array Elements](minimum_moves_to_equal_array_elements.md)
    * [[223]Rectangle Area](rectangle_area.md)
+   * [415]Add Strings
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
