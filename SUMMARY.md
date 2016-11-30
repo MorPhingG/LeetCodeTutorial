@@ -15,7 +15,7 @@
    * [[453]Minimum Moves to Equal Array Elements](minimum_moves_to_equal_array_elements.md)
    * [[223]Rectangle Area](rectangle_area.md)
    * [[415]Add Strings](add_strings.md)
-   * [441]Arranging Coins
+   * [[441]Arranging Coins](arranging_coins.md)
 * [String](string.md)
    * [[13]Roman to Integer](roman_to_integer.md)
    * [[58]Length of last word](length_of_last_word.md)
