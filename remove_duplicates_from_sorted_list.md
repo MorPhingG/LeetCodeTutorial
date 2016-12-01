@@ -6,12 +6,16 @@ For example,
 Given 1->1->2, return 1->2.
 Given 1->1->2->3->3, return 1->2->3.
 
+## 思路
+每次进行判断，相同即删除.
+
 ## Code
 
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def deleteDuplicates(self, head):
         if head == None:
             return []
@@ -22,6 +26,5 @@ Given 1->1->2->3->3, return 1->2->3.
             node = node.next
         return head
         ```
-
-
+Runtime: 148ms
 
