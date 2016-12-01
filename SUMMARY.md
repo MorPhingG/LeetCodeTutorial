@@ -72,5 +72,4 @@
    * [[404]Sum of Left Leaves](sum_of_left_leaves.md)
 * Dynamic Programming
    * [[70]Climbing Stairs](climbing_stairs.md)
-   * [121]Best Time to Buy and Sell Stock
 
