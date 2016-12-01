@@ -9,7 +9,8 @@ Given a linked list, determine if it has a cycle in it.
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def hasCycle(self, head):
         if head == None:
             return False
