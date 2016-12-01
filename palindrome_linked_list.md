@@ -8,7 +8,6 @@ Could you do it in O(n) time and O(1) space?
 ## 思路
 先把链表分成两半，将后半部分反转，然后判断这两部分是否相同。
 
-
 ## Code
 
 ### Python
