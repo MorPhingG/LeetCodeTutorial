@@ -6,7 +6,8 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def mergeTwoLists(self, l1, l2):
         if l1 == None:
             return l2
