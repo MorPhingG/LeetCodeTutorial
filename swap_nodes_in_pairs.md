@@ -11,7 +11,8 @@ Your algorithm should use only constant space. You may not modify the values in 
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def swapPairs(self, head):
         if head == None:
             return head
