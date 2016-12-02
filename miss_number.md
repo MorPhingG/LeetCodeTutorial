@@ -9,15 +9,24 @@ Note:
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?
 
 ## 思路
-
 直接用求和公式求和然后减去数列总和即可得到丢失的数
-
 
 ## Code
 
+## Python
+```
+class Solution(object):
+    def missingNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        length = len(nums) 
+        return (1+length)*length/2-sum(nums)
+        ```
+Runtime: 49ms
 
 ### Java
-
 ```
 public class Solution {
     public int missingNumber(int[] nums) {
