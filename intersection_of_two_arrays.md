@@ -11,14 +11,10 @@ The result can be in any order.
 
 ## Code
 
-
-### Java
-
-
 ### Python
-
 Solution1:
-```class Solution(object):
+```
+class Solution(object):
     def intersection(self, nums1, nums2):
         result = []
         for num in set(nums1):
@@ -28,7 +24,8 @@ Solution1:
         ```
         
 Solution2:
-```class Solution(object):
+```
+class Solution(object):
     def intersection(self, nums1, nums2):
         return [num for num in set(nums1) if num in nums2]
         ```
