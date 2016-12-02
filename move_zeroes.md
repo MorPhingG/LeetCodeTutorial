@@ -9,13 +9,27 @@ Note:
 2:Minimize the total number of operations.
 
 ## 思路
-
 用多个指针指向数组中的元素，然后遍历
+
 ## Code
 
+## Python
+```
+class Solution(object):
+    def moveZeroes(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: void Do not return anything, modify nums in-place instead.
+        """
+        index = 0
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[i], nums[index] = 0, nums[i]
+                index += 1
+                ```
+Runtime: 89ms
 
 ### Java
-
 ```
 public class Solution {
     public void moveZeroes(int[] nums) {
