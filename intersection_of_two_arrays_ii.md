@@ -16,7 +16,8 @@ What if elements of nums2 are stored on disk, and the memory is limited such tha
 ## Code
 
 ### Python
-```class Solution(object):
+```
+class Solution(object):
     def intersect(self, nums1, nums2):
         """
         :type nums1: List[int]
