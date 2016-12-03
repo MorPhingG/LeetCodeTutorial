@@ -11,11 +11,9 @@ Could you optimize your algorithm to use only O(k) extra space?
 ## 思路
 迭代，每次存下当前行的元素，通过当前行得到下一行。
 
-
 ## Code
 
 ### Python
-
 ```
 class Solution(object):
     def getRow(self, rowIndex):
