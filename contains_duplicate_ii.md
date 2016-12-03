@@ -8,7 +8,6 @@ Given an array of integers and an integer k, find out whether there are two dist
 ## Code
 
 ### Python
-
 ```
 class Solution(object):
     def containsNearbyDuplicate(self, nums, k):
