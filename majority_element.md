@@ -4,11 +4,15 @@ Given an array of size n, find the majority element. The majority element is the
 
 You may assume that the array is non-empty and the majority element always exist in the array.
 
+## 思路
+用字典存元素出现的次数。
+
+
 ## Code
 
 ### Python
-
-```class Solution(object):
+```
+class Solution(object):
     def majorityElement(self, nums):
         numsDict = {}
         length = len(nums)
