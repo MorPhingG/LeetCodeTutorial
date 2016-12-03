@@ -18,11 +18,15 @@ But the following [1,2,2,null,3,null,3] is not:
 Note:
 Bonus points if you could solve it both recursively and iteratively.
 
+## 思路
+递归，依次比较左子树和右子树。
+
 ## Code
 
 ### Python
 
-```class Solution(object):
+```
+class Solution(object):
     def isSymmetric(self, root):
         def sym_tree(L, R):
             if L and R:
