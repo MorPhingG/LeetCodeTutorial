@@ -13,11 +13,15 @@ Return
  [1,4,6,4,1]
 ]
 
+## 思路
+边缘的1直接插入，而中间的元素由上一行两个相加获得。
+
+
 ## Code
 
 ### Python
-
-```class Solution(object):
+```
+class Solution(object):
     def generate(self, numRows):
         if numRows == 0:
             return []
