@@ -5,7 +5,6 @@ Given an array of integers and an integer k, find out whether there are two dist
 ## 思路
 用字典存元素出现的位置，后面重复出现后新位置代替旧的。
 
-
 ## Code
 
 ### Python
