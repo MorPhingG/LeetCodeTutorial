@@ -16,11 +16,14 @@ return its level order traversal as:
   [15,7]
 ]
 
+## 思路
+迭代，每次都记录当前层的树，根据该层得到下一层。
+
 ## Code
 
 ### Python
-
-```class Solution(object):
+```
+class Solution(object):
     def levelOrder(self, root):
         current_level, result = [root], []
         while current_level and root:
