@@ -70,6 +70,7 @@
    * [[102]Binary Tree Level Order Traversal](binary_tree_level_order_traversal.md)
    * [[107]Binary Tree Level Order Traversal II](binary_tree_level_order_traversal_ii.md)
    * [[404]Sum of Left Leaves](sum_of_left_leaves.md)
+   * [100]Same Tree
 * Dynamic Programming
    * [[70]Climbing Stairs](climbing_stairs.md)
    * [[198]House Robber](house_robber.md)
