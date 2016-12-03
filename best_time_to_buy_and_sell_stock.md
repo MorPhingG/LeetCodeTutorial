@@ -18,8 +18,8 @@ In this case, no transaction is done, i.e. max profit = 0.
 ## Code
 
 ### Python
-
-```class Solution(object):
+```
+class Solution(object):
     def maxProfit(self, prices):
         """
         :type prices: List[int]
