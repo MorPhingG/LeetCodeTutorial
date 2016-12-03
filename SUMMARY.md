@@ -48,7 +48,6 @@
    * [[121]Best Time to Buy and Sell Stock](best_time_to_buy_and_sell_stock.md)
    * [[119]Pascal's Triangle II](pascals_triangle_ii.md)
    * [[26]Remove Duplicates from Sorted Array](remove_duplicates_from_sorted_array.md)
-   * [[189]Rotate Array]([189]rotate_array.md)
    * [[88]Merge Sorted Array](merge_sorted_array.md)
    * [[350]Intersection of Two Arrays II](intersection_of_two_arrays_ii.md)
 * [Linked List](linked_list.md)
