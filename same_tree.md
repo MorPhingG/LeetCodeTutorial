@@ -9,7 +9,7 @@ Two binary trees are considered equal if they are structurally identical and the
 
 ## Code
 
-### Python
+### Java
 ```
 public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
