@@ -16,11 +16,14 @@ return its bottom-up level order traversal as:
   [3]
 ]
 
+## 思路
+先得到从上往下的结果，再反转。
+
 ## Code
 
 ### Python
-
-```class Solution(object):
+```
+class Solution(object):
     def levelOrderBottom(self, root):
         result, current_level = [], [root]
         while current_level and root:
