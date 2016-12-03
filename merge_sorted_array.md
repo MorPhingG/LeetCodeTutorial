@@ -8,7 +8,6 @@ You may assume that nums1 has enough space (size that is greater or equal to m +
 ## 思路
 依次对比，将元素从列表最末端开始放。
 
-
 ## Code
 
 ### Python
